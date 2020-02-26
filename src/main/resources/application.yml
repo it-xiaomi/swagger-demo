@@ -1,0 +1,4 @@
+
+# 配置是否生成swagger文档 生成环境关闭
+swagger:
+  enable: true
